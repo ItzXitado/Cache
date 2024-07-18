@@ -1,4 +1,4 @@
-package io.github.xitadoo.cache;
+package io.github.xitadoo.cache.interfaces;
 
 public interface Cache<K, V> {
     V get(K key);

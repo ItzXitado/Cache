@@ -2,7 +2,7 @@ package io.github.xitadoo.cache.impl;
 
 import io.github.xitadoo.cache.exceptions.CacheException;
 import io.github.xitadoo.cache.helper.CacheEntry;
-import io.github.xitadoo.cache.Cache;
+import io.github.xitadoo.cache.interfaces.Cache;
 
 import java.util.HashMap;
 import java.util.Map;
